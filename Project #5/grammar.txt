@@ -1,0 +1,8 @@
+<title>::=<determiner> <noun_phrase> <preposition> <location>
+<noun_phrase>::=<adjective> <noun>|<noun_phrase>
+<adjective>::=Wonderful|Faulty|Subliminal|Pretentious|Exiled|Prophetic|Brave|Selfless|Devine
+<noun>::=Father|Mother|Child|Duke|Queen|King|Harbinger|Hero|Guardian|Champion|Savior|Protector|Conqueror
+<determiner>::=The|A|An
+<preposition>::=of|from|to
+<location>::= Eldritch Glade|Aetherial Citadel|Celestial Haven|Dragon's Roost|Whispering Caverns|Sylvan Vale
+
