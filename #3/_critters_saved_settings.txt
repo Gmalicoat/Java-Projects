@@ -1,0 +1,15 @@
+#CSE 142 Critters saved settings
+#Wed May 08 13:56:02 PDT 2024
+Aadvark=true
+Aardvark=true
+Cat=true
+Debug\ output=false
+Height=50
+Koala=true
+Network\ features=true
+Number\ of\ each\ critter=25
+Salmon=true
+Secure\ tournament\ mode=true
+Stone=true
+Tiger=true
+Width=60
